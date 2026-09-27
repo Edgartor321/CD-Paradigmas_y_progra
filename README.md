@@ -1,5 +1,3 @@
-
-```markdown
 # Repositorio de Tareas Programación y Paradigmas de Proggramación para Ciencia de Datos
 
 Este repositorio contiene los notebooks que son realizados como tarea de la materia.
@@ -8,7 +6,7 @@ Alumno: Edgar I. Torres
 
 Por cada tarea, se hace una nueva carpeta, con el nombre de la tarea.
 
-## equisitos Previos
+## Requisitos Previos
 
 Tener instalado en tu sistema:
 
