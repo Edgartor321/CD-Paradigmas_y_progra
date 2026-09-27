@@ -29,8 +29,13 @@ python3 -m venv .venv
 source .venv/bin/activate
 
 ```
+3. **Instalar las dependencias:**
+Instala los paquetes listados en el archivo de requerimientos:
+```bash
+pip install -r requirements.txt
+```
 
-3. **Iniciar Jupyter Lab:**
+4. **Iniciar Jupyter Lab:**
 ```bash
 jupyter lab
 
